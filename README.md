@@ -1,4 +1,4 @@
-# Projeto de Busca Nomes e significados
+# Projeto de Busca Nomes e significados Imersão Dev com Google Gemini
 
 ## Descrição
 Este projeto implementa uma funcionalidade de busca básica em uma página web. O usuário pode digitar uma palavra-chave e o sistema retorna os resultados relevantes de um conjunto de dados pré-definido.
