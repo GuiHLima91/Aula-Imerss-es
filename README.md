@@ -11,7 +11,7 @@ Este projeto implementa uma funcionalidade de busca básica em uma página web. 
 ## Como Utilizar
 1. **Clone o repositório:**
    ```bash
-   git clone [URL inválido removido]
+   git clone [https://aula-imerss-es.vercel.app/]
    ```
 2. **Abra o projeto em um editor de código:** Visual Studio Code, Sublime Text, etc.
 3. **Abra o arquivo `index.html` em um navegador.**
